@@ -1,4 +1,4 @@
 # website-portfolio
 React Personal Website
 
-Created via the acloud.guru Serverless AWS Course.s
+Created via the acloud.guru Serverless AWS Course.
