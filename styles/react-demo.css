@@ -1,0 +1,19 @@
+.messageBox {
+  border: 1px solid;
+  margin: 1em;
+  padding: 2em;
+}
+
+.error {
+  border-color: red;
+  background-color: #eebbbb;
+}
+
+.success {
+  border-color: blue;
+  background-color: #bbbbee;
+}
+
+.hidden {
+  display: none;
+}

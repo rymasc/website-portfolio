@@ -1,0 +1,10 @@
+.errorBox {
+  border: 1px solid red;
+  background-color: #eebbbb;
+  margin: 1em;
+  padding: 2em;
+}
+
+.errorBox--hidden {
+  display: none;
+}
